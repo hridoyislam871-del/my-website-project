@@ -1,0 +1,6 @@
+{
+  "name": "Abstract Banner Design Studio",
+  "description": "Professional 1584x396 banner customization studio with vector SVG and 300 DPI JPG exports, 10+ abstract styles, and real-time artboard editing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
